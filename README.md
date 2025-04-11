@@ -1,4 +1,4 @@
-# Project Exploration and Elaboration - PEXE aka 'PROJEXP'
+# Project Exploration and Elaboration - PEXE
 
 Template voor het PeXe project zodat alle studenten met dezelfde start-inhoud kunnen beginnen.
 
