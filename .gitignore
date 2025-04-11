@@ -1,1 +1,47 @@
-**/.DS_Store
+# Generieke .gitignore. Graag project specifieke gitignores toevoegen in subfolders, afhankelijk van je gekozen technologie.
+# Maar deze dient voor het voorkomen/oplossen van grootste problemen (e.g. grote/onnodige diffs bij elke commit).
+
+# Java / Maven / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+
+# Node / React / JavaScript
+node_modules/
+dist/
+build/
+.env
+.npm/
+.yarn/
+*.log
+
+# OS/IDE stuff
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.sw?
+
+# General
+*.bak
+*.tmp
+*.swp
+
+# JetBrains / IntelliJ
+*.ipr
+*.iws
+out/
+
+# Mac / Linux lock files
+*.lock
+
+# Runtime files
+coverage/
+.env.local
+.env.development
+.env.test
+.env.production
