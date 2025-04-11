@@ -4,9 +4,11 @@ Template voor het PeXe project zodat alle studenten met dezelfde start-inhoud ku
 
 ## TODO
 
-- [ ] 1. Vervang de inhoud van deze `README.md` met de eigen 'landingsinformatie' voor jouw team. Zet je Teamnaam erin, de teamleden (incl. studentnummers) en de naam van opdracht en opdrachtgever.
-- [ ] 2. Link vanaf hier door naar je [Plan van Aanpak](/procesproducten/plan-van-aanpak) (in markdown hier in de repo).
-- [ ] 3. Haal de content voor je opdracht uit het Word document en/of verwijs hier naar je eigen [documentatie](https://aim-ene.github.io/pexe/docs/Projectresultaat/SoftwareGuidebook#github-pages) t.z.t.
+- [ ] 1. Vervang de inhoud van deze `README.md` met de eigen 'landingsinformatie' voor jouw team.
+
+  - Zet in ieder geval je Teamnaam erin, de teamleden (incl. studentnummers) en de naam van opdracht en opdrachtgever.
+- [ ] 2. Link vanaf hier door naar je [Plan van Aanpak](/procesproducten/plan-van-aanpak).
+- [ ] 3. Haal de content voor je opdracht uit het Word document en verwijs later hier naar je eigen online [documentatie](https://aim-ene.github.io/pexe/docs/Projectresultaat/SoftwareGuidebook#github-pages)
 - [ ] 4. Vervang de foldernamen `procesproducten/student-<x>` door de eigen teamlid namen.
 
 Een README is ook een goede plek voor een 'how to run' of andere informatie die de lezers (je mede developers) vertelt: 'what they can do with your project'.
