@@ -2,7 +2,7 @@
 
 Klik hierboven door naar de verschillende hoofdstuk uit het 'Plan van Aanpak' document:
 
-![Plan van Aanpak](pva-op-github.png)
+![Plan van Aanpak](plaatjes/pva-op-github.png)
 
 ## PDF
 
