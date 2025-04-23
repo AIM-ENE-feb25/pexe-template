@@ -1,0 +1,16 @@
+# pva-pdf.yaml
+from: markdown
+to: pdf
+output-file: Plan-van-Aanpak.pdf
+pdf-engine: xelatex
+
+metadata:
+  title: "Plan van Aanpak"
+
+toc: true
+toc-depth: 2
+file-scope: true
+listings: true
+highlight-style: tango
+variables:
+  tables: true
